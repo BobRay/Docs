@@ -52,6 +52,8 @@ SiteCheck took about eight months months of intensive development to create.
 
 This version of the SiteCheck extra was developed by Bob Ray in 2014. As of Jun 22, 2017 it had been last updated on April 8, 2017, had 322 commits, and had been downloaded 190 times. The SiteCheck package consists of 3,118 separate files, containing 30,502 lines of code.
 
+As of version 1.3.0, SiteCheck is compatible with MODX 3.
+
 It is currently maintained by Bob Ray.
 
 ## Download
